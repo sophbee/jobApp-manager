@@ -56,6 +56,7 @@ body {
   text-transform: uppercase;
   font-size: 20px;
   font-weight: bold;
+  display: block;
   cursor: pointer
 }
 
