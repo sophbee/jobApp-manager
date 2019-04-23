@@ -9,6 +9,7 @@ class ApplicationList extends Component {
     constructor(props) {
         super(props);
 
+        //holding filtered applicant names, favorited names, and marking applicants as saved or not in state
         this.state = {
             filteredApplicants: [],
             savedApplicants: [],
@@ -19,17 +20,19 @@ class ApplicationList extends Component {
         // this.handleSaved = this.handleSaved.bind(this);
     }
 
+    //after component mounts, sending data to change the state (either show searched applicant or all applicants)
     componentDidMount() {
         this.setState({
             filteredApplicants: this.props.applicants,
-            savedApplicants: this.props.applicants
+            // savedApplicants: this.props.applicants
         });
     }
 
+    //trigger any time props being passed into component are changed
     componentWillReceiveProps(nextProps) {
         this.setState({
             filteredApplicants: nextProps.applicants,
-            savedApplicants: nextProps.applicants
+            // savedApplicants: nextProps.applicants
         });
     }
 
