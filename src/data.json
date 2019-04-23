@@ -1,0 +1,210 @@
+[
+    {
+        "id": 1,
+        "name": "Clark Kent",
+        "position": "Server",
+        "applied": "03/15/16",
+        "experience": 2,
+        "availability": {
+            "M": 2,
+            "T": 2,
+            "W": 1,
+            "Th": 2,
+            "F": 1,
+            "S": 0,
+            "Su": 0
+        },
+        "questions": [
+            {
+                "text": "Have you ever been convicted of a felony?",
+                "answer": "No"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Patty Cake",
+        "position": "Cook",
+        "applied": "02/08/16",
+        "experience": 4,
+        "availability": {
+            "M": 1,
+            "T": 1,
+            "W": 1,
+            "Th": 1,
+            "F": 0,
+            "S": 0,
+            "Su": 0
+        },
+        "questions": [
+            {
+                "text": "Have you ever been convicted of a felony?",
+                "answer": "Yes"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Michael Jordan",
+        "position": "Chef",
+        "applied": "03/08/16",
+        "experience": 2,
+        "availability": {
+            "M": 2,
+            "T": 2,
+            "W": 2,
+            "Th": 2,
+            "F": 2,
+            "S": 0,
+            "Su": 0
+        },
+        "questions": [
+            {
+                "text": "Are you authorized to work in the United States?",
+                "answer": "Yes"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Kermit Frog",
+        "position": "Cook",
+        "applied": "03/08/16",
+        "experience": 1,
+        "availability": {
+            "M": 1,
+            "T": 0,
+            "W": 1,
+            "Th": 0,
+            "F": 1,
+            "S": 0,
+            "Su": 0
+        },
+        "questions": [
+            {
+                "text": "Are you authorized to work in the United States?",
+                "answer": "Yes"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Louise Belcher",
+        "position": "Hostess",
+        "applied": "08/08/16",
+        "experience": 8,
+        "availability": {
+            "M": 1,
+            "T": 0,
+            "W": 1,
+            "Th": 0,
+            "F": 1,
+            "S": 0,
+            "Su": 0
+        },
+        "questions": [{
+            "text": "Are you authorized to work in the United States?",
+            "answer": "Yes"
+        }]
+    },
+    {
+        "id": 6,
+        "name": "Bart Simpson",
+        "position": "Dishwasher",
+        "applied": "03/19/16",
+        "experience": 1,
+        "availability": {
+            "M": 1,
+            "T": 0,
+            "W": 1,
+            "Th": 0,
+            "F": 1,
+            "S": 0,
+            "Su": 0
+        },
+        "questions": [{
+            "text": "Are you authorized to work in the United States?",
+            "answer": "Yes"
+        }]
+    },
+    {
+        "id": 7,
+        "name": "Jake Finn",
+        "position": "Host",
+        "applied": "05/08/16",
+        "experience": 1,
+        "availability": {
+            "M": 1,
+            "T": 0,
+            "W": 1,
+            "Th": 0,
+            "F": 1,
+            "S": 0,
+            "Su": 0
+        },
+        "questions": [{
+            "text": "Are you authorized to work in the United States?",
+            "answer": "Yes"
+        }]
+    },
+    {
+        "id": 8,
+        "name": "Minnie Mouse",
+        "position": "Hostess",
+        "applied": "03/08/16",
+        "experience": 1,
+        "availability": {
+            "M": 1,
+            "T": 0,
+            "W": 1,
+            "Th": 0,
+            "F": 1,
+            "S": 0,
+            "Su": 0
+        },
+        "questions": [{
+            "text": "Are you authorized to work in the United States?",
+            "answer": "Yes"
+        }]
+    },
+    {
+        "id": 9,
+        "name": "Miss Piggy",
+        "position": "Server",
+        "applied": "01/01/16",
+        "experience": 1,
+        "availability": {
+            "M": 1,
+            "T": 0,
+            "W": 1,
+            "Th": 0,
+            "F": 1,
+            "S": 0,
+            "Su": 0
+        },
+        "questions": [{
+            "text": "Are you authorized to work in the United States?",
+            "answer": "Yes"
+        }]
+    },
+        {
+            "id": 10,
+            "name": "Mickey Mouse",
+            "position": "Host",
+            "applied": "02/14/16",
+            "experience": 1,
+            "availability": {
+                "M": 1,
+                "T": 0,
+                "W": 1,
+                "Th": 0,
+                "F": 1,
+                "S": 0,
+                "Su": 0
+            },
+            "questions": [{
+                "text": "Are you authorized to work in the United States?",
+                "answer": "Yes"
+            }]
+        }
+]
