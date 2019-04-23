@@ -8,7 +8,7 @@ self.__precacheManifest = [
     "url": "/jobApp-manager/static/js/runtime~main.e5df884a.js"
   },
   {
-    "revision": "96a6c7dde6626bb51f17",
+    "revision": "629aa85407a39e59c5cb",
     "url": "/jobApp-manager/static/js/main.b3e0d066.chunk.js"
   },
   {
@@ -16,11 +16,11 @@ self.__precacheManifest = [
     "url": "/jobApp-manager/static/js/2.0bd40ddb.chunk.js"
   },
   {
-    "revision": "96a6c7dde6626bb51f17",
-    "url": "/jobApp-manager/static/css/main.6b7b0041.chunk.css"
+    "revision": "629aa85407a39e59c5cb",
+    "url": "/jobApp-manager/static/css/main.4d927dee.chunk.css"
   },
   {
-    "revision": "d6d4064ec2f57e8a38442cd406739f6b",
+    "revision": "9df7d028878737194fa4c8b3f5540faa",
     "url": "/jobApp-manager/index.html"
   }
 ];

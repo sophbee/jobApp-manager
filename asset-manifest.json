@@ -1,5 +1,5 @@
 {
-  "main.css": "/jobApp-manager/static/css/main.6b7b0041.chunk.css",
+  "main.css": "/jobApp-manager/static/css/main.4d927dee.chunk.css",
   "main.js": "/jobApp-manager/static/js/main.b3e0d066.chunk.js",
   "main.js.map": "/jobApp-manager/static/js/main.b3e0d066.chunk.js.map",
   "runtime~main.js": "/jobApp-manager/static/js/runtime~main.e5df884a.js",
@@ -7,8 +7,8 @@
   "static/js/2.0bd40ddb.chunk.js": "/jobApp-manager/static/js/2.0bd40ddb.chunk.js",
   "static/js/2.0bd40ddb.chunk.js.map": "/jobApp-manager/static/js/2.0bd40ddb.chunk.js.map",
   "index.html": "/jobApp-manager/index.html",
-  "precache-manifest.1a128443652793a12ba18a0546b6d9dc.js": "/jobApp-manager/precache-manifest.1a128443652793a12ba18a0546b6d9dc.js",
+  "precache-manifest.e6e6da3fe8728fac44874a67675a6bee.js": "/jobApp-manager/precache-manifest.e6e6da3fe8728fac44874a67675a6bee.js",
   "service-worker.js": "/jobApp-manager/service-worker.js",
-  "static/css/main.6b7b0041.chunk.css.map": "/jobApp-manager/static/css/main.6b7b0041.chunk.css.map",
+  "static/css/main.4d927dee.chunk.css.map": "/jobApp-manager/static/css/main.4d927dee.chunk.css.map",
   "static/media/snag-logo-white.svg": "/jobApp-manager/static/media/snag-logo-white.fa98c7a1.svg"
 }
